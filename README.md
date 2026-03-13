@@ -49,22 +49,23 @@
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-"GitHub stats" (https://github-readme-stats.vercel.app/api?username=DevLeandroSantos&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeandroSantos&show_icons=true&theme=tokyonight)
 
 ---
 
-📈 Most Used Languages
+## 📈 Most Used Languages
 
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeandroSantos&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeandroSantos&layout=compact&theme=tokyonight)
 
 ---
 
 📫 Contact
 
-- 📧 Email: seuemail@email.com
-- 💼 LinkedIn: coloque-seu-linkedin
+- ✉️Email:
+- leandrodossantossilva9@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/leandro-dos-santos-0090662a1?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
