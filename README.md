@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Aluca dos Santos</h1>
+<h1 align="center">Hello 👋, I'm Leandro Santos</h1>
 <h3 align="center">Future Web Developer from Brazil 🇧🇷</h3>
 
 ---
@@ -32,7 +32,7 @@
 # 📚 Currently Studying
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,html,css,js,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,html,css,js,bootstrap" />
 </p>
 
 - Java  
@@ -40,7 +40,8 @@
 - JavaScript  
 - Bootstrap  
 - HTML & CSS (advanced)
-
+- Spring
+- Spring Boot
 ---
 
 # 🎯 Technologies I Want to Learn
@@ -59,8 +60,8 @@
 
 # 📫 Contact
 
-- Email: seuemail@gmail.com
-- LinkedIn: (coloque seu linkedin aqui)
+- Email: leandrodossantossilva9@gmail.com
+- LinkedIn: (Leandro Santos)
 
 ---
 
