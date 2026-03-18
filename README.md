@@ -65,7 +65,8 @@
 
 - ✉️Email:
 - leandrodossantossilva9@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/leandro-dos-santos-0090662a1?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 LinkedIn:
+- https://www.linkedin.com/in/leandro-dos-santos-0090662a1?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
