@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Santos</h1>
-<h3 align="center">💻 Aspiring Full Stack & Data Developer | Brazil 🇧🇷</h3>
+<h3 align="center">💻 Software Engineering Student | Aspiring Full Stack & Data Developer | Brazil 🇧🇷</h3>
 
 ---
 
@@ -24,6 +24,8 @@
 <table>
 <tr>
 <td width="60%">
+
+🎓 Software Engineering student  
 
 🚀 Continuously improving in software development and data  
 
@@ -117,6 +119,23 @@
 <img src="https://img.shields.io/badge/English-Wizard-FF6F00?style=for-the-badge"/>
 
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevLeandroSantos&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeandroSantos&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## ⭐ About This Profile
