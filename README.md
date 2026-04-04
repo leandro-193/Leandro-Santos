@@ -106,3 +106,7 @@
 🚀 Continuously improving in software development and data  
 📊 Focused on Data Engineering, Machine Learning and Full Stack  
 💡 Passionate about technology, problem solving and continuous learning  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+</p>
