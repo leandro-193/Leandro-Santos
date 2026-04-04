@@ -108,5 +108,5 @@
 💡 Passionate about technology, problem solving and continuous learning  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRtJmO4yW8Bl2QU/giphy.gif" width="500"/>
+  <img src="https://media.tenor.com/9yHjU3Zq0hAAAAAC/retro-goal-soccer.gif" width="500"/>
 </p>
