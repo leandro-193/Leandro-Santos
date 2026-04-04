@@ -5,12 +5,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Background in Programming Logic and Algorithms  
-- 🗄️ Knowledge in Database Development  
-- 📊 Studying Data Engineering Fundamentals & Machine Learning  
-- ☁️ Learning AWS (Beginner)  
-- 🐍 Python for data and automation  
-- 🎯 Goal: Full Stack Developer + Data Skills  
+- 🎓 Strong foundation in Programming Logic and Algorithms  
+- 🗄️ Experience with Database Development  
+- 📊 Currently studying Data Engineering & Machine Learning  
+- ☁️ Learning Cloud Computing (AWS - Beginner)  
+- 🐍 Using Python for data and automation  
+- 🎯 Goal: Become a Full Stack Developer with Data expertise  
 
 ---
 
@@ -61,8 +61,11 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
@@ -76,7 +79,7 @@
 
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Course-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Programming%20Logic-Course-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Databases-Course-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Development-Course-336791?style=for-the-badge"/>
 
 </p>
 
@@ -116,6 +119,6 @@
 
 ## ⭐ About Me
 
-🚀 Always evolving in development and data  
-📊 Focused on Data Engineering + Full Stack  
-💡 Passionate about technology and problem solving  
+🚀 Continuously improving in software development and data  
+📊 Focused on Data Engineering, Machine Learning and Full Stack  
+💡 Passionate about technology, problem solving and continuous learning  
