@@ -108,5 +108,5 @@
 💡 Passionate about technology, problem solving and continuous learning  
 
 <p align="center">
-  <img src="https://media.tenor.com/9yHjU3Zq0hAAAAAC/retro-goal-soccer.gif" width="500"/>
+  <img src="https://media.tenor.com/_6R8XzXzQ0YAAAAC/pixel-soccer.gif" width="500"/>
 </p>
